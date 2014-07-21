@@ -1,0 +1,71 @@
+{
+  "bio": {
+    "firstName": "Haralan",
+    "lastName": "Dobrev",
+    "email": {
+      "work": "harry@clippings.com",
+      "personal": "hkdobrev@gmail.com"
+    },
+    "phone": {
+      "personal": "+359 888 386 415"
+    },
+    "summary": "",
+    "location": {
+      "city": "Sofia",
+      "countryCode": "BG",
+      "state": "Sofia"
+    },
+    "websites": {
+    	"homepage": "http://hkdobrev.com",
+      "blog": "http://blog.hkdobrev.com"
+    },
+    "profiles": {
+      "github": "hkdobrev",
+      "twitter": "hkdobrev"
+    }
+  },
+  "work": [
+    {
+      "company": "Clippings",
+      "position": "Web Developer",
+      "website": "https://clippings.com",
+      "startDate": "2012-02-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sofia University",
+      "startDate": "2010-10-01",
+      "endDate": "2011-05",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "courses": [
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "SEO on-site optimization - young talents (BG Site)",
+      "date": "2010-11-13",
+      "awarder": "SEOM"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "references": [
+  ]
+}

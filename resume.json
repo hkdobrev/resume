@@ -68,7 +68,7 @@
 		{
 			"institution": "Sofia University",
 			"startDate": "2010-10-01",
-			"endDate": "2011-05",
+			"endDate": "2011-05-31",
 			"area": "Software Engineering",
 			"studyType": "Bachelor",
 			"courses": [
@@ -78,7 +78,7 @@
 		{
 			"institution": "Software University",
 			"startDate": "2014-05-07",
-			"endDate": "2016-06",
+			"endDate": "2016-06-01",
 			"area": "Software Engineering",
 			"studyType": "Bachelor",
 			"courses": [

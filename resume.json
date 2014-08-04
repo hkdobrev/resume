@@ -128,6 +128,28 @@
 				"Google Maps JavaScript SDK",
 				"Facebook JavaScript SDK"
 			]
+		},
+		{
+			"name": "Back-end Development",
+			"level": "Master",
+			"keywords": [
+				"PHP",
+				"Apache",
+				"MySQL",
+				"Linux",
+				"Node.js",
+				"Object-oriented programming",
+				"Design patterns",
+				"MVC",
+				"Kohana PHP framework",
+				"Silex",
+				"Symfony components",
+				"Server security",
+				"OAuth",
+				"REST APIs",
+				"HTTP",
+				"Database architecture"
+			]
 		}
 	],
 	"languages": [

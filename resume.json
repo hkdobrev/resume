@@ -1,129 +1,147 @@
 {
-  "basics": {
-    "name": "Haralan Dobrev",
-    "label": "Web Developer",
-    "picture": "http://www.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682.png",
-    "email": "hkdobrev@gmail.com",
-    "phone": "(+359) 888 386 415",
-    "website": "http://hkdobrev.com",
-    "summary": "",
-    "location": {
-      "postalCode": "1000",
-      "city": "Sofia",
-      "countryCode": "BG",
-      "state": "Sofia"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "hkdobrev",
-        "url": "https://twitter.com/hkdobrev"
-      },
-      {
-        "network": "GitHub",
-        "username": "hkdobrev",
-        "url": "https://github.com/hkdobrev"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "hkdobrev",
-        "url": "https://www.linkedin.com/in/hkdobrev"
-      },
-      {
-        "network": "Facebook",
-        "username": "hkdobrev",
-        "url": "https://www.facebook.com/hkdobrev"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Clippings",
-      "position": "Web Developer",
-      "website": "https://clippings.com",
-      "startDate": "2012-02-01",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "Despark",
-      "position": "Web Developer",
-      "website": "http://despark.com",
-      "startDate": "2011-04-11",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "Transys",
-      "position": "Web Developer",
-      "startDate": "2011-04-11",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Sofia University",
-      "startDate": "2010-10-01",
-      "endDate": "2011-05",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "courses": [
-        "CS2011 - Java Introduction"
-      ]
-    },
-    {
-      "institution": "Software University",
-      "startDate": "2014-05-07",
-      "endDate": "",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "courses": [
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "SEO on-site optimization - young talents (BG Site)",
-      "date": "2010-11-13",
-      "awarder": "SEOM"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Full professional proficiency"
-    },
-    {
-      "language": "Bulgarian",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ]
+	"basics": {
+		"name": "Haralan Dobrev",
+		"label": "Web Developer",
+		"picture": "http://www.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
+		"email": "hkdobrev@gmail.com",
+		"phone": "(+359) 888 386 415",
+		"website": "http://hkdobrev.com",
+		"summary": "I am a full-stack web developer. I think about the whole product - from speed and simplicity for the end-user to the maintainability and re-usability of the code. I love open-source and I try to contribute back to the community on which we rely on.",
+		"location": {
+			"postalCode": "1000",
+			"city": "Sofia",
+			"countryCode": "BG",
+			"state": "Sofia"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "hkdobrev",
+				"url": "https://twitter.com/hkdobrev"
+			},
+			{
+				"network": "GitHub",
+				"username": "hkdobrev",
+				"url": "https://github.com/hkdobrev"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "hkdobrev",
+				"url": "https://www.linkedin.com/in/hkdobrev"
+			},
+			{
+				"network": "Facebook",
+				"username": "hkdobrev",
+				"url": "https://www.facebook.com/hkdobrev"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Clippings",
+			"position": "Senior Web Developer",
+			"website": "https://clippings.com",
+			"startDate": "2012-02-01",
+			"summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+		},
+		{
+			"company": "Despark",
+			"position": "Web Developer",
+			"website": "http://despark.com",
+			"startDate": "2011-04-11",
+			"summary": "",
+			"highlights": [
+				""
+			]
+		},
+		{
+			"company": "Transys",
+			"position": "Web Developer",
+			"startDate": "2011-04-11",
+			"summary": "",
+			"highlights": [
+				""
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Sofia University",
+			"startDate": "2010-10-01",
+			"endDate": "2011-05",
+			"area": "Software Engineering",
+			"studyType": "Bachelor",
+			"courses": [
+				"CS2011 - Java Introduction"
+			]
+		},
+		{
+			"institution": "Software University",
+			"startDate": "2014-05-07",
+			"endDate": "2016-06",
+			"area": "Software Engineering",
+			"studyType": "Bachelor",
+			"courses": [
+				"C# Basics",
+				"Java Basics",
+				"PHP Basics",
+				"JavaScript Basics",
+				"Web Fundamentals",
+				"Teamwork and Personal skills"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "SEO on-site optimization - young talents (BG Site)",
+			"date": "2010-11-13",
+			"awarder": "SEOM"
+		}
+	],
+	"publications": [
+		{
+			"name": "Thinks I learned from the jQuery source",
+			"publisher": "jQuery Bulgaria 2013 conference",
+			"releaseDate": "2013-10-30",
+			"website": "https://github.com/hkdobrev/jquery-conference-2013",
+			"summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
+		}
+	],
+	"skills": [
+		{
+			"name": "Front-end Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"SASS",
+				"LESS",
+				"CoffeeScript",
+				"AngularJS",
+				"Bower",
+				"Grunt",
+				"Yeoman",
+				"Local storage",
+				"jQuery",
+				"jQuery plugin development",
+				"Google Maps JavaScript SDK",
+				"Facebook JavaScript SDK"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Full professional proficiency"
+		},
+		{
+			"language": "Bulgarian",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "French",
+			"fluency": "Beginner"
+		}
+	]
 }

@@ -39,29 +39,33 @@
 	"work": [
 		{
 			"company": "Clippings",
-			"position": "Senior Web Developer",
+			"position": "Web Developer",
 			"website": "https://clippings.com",
 			"startDate": "2012-02-01",
 			"summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+		},
+		{
+			"company": "OpenBuildings",
+			"position": "Web Developer",
+			"website": "http://openbuildings.com",
+			"startDate": "2012-12-01",
+			"endDate": "2013-06-01",
+			"summary": ""
 		},
 		{
 			"company": "Despark",
 			"position": "Web Developer",
 			"website": "http://despark.com",
 			"startDate": "2011-04-11",
-			"summary": "",
-			"highlights": [
-				""
-			]
+			"endDate": "2014-09-08",
+			"summary": ""
 		},
 		{
 			"company": "Transys",
 			"position": "Web Developer",
-			"startDate": "2011-04-11",
-			"summary": "",
-			"highlights": [
-				""
-			]
+			"startDate": "2010-06-02",
+			"endDate": "2011-04-11",
+			"summary": ""
 		}
 	],
 	"education": [
@@ -72,7 +76,11 @@
 			"area": "Software Engineering",
 			"studyType": "Bachelor",
 			"courses": [
-				"CS2011 - Java Introduction"
+                "Linear Algebra",
+                "Calculus",
+                "Discrete structures",
+                "Object Oriented Programming",
+                "Englsh"
 			]
 		},
 		{
@@ -87,7 +95,11 @@
 				"PHP Basics",
 				"JavaScript Basics",
 				"Web Fundamentals",
-				"Teamwork and Personal skills"
+				"Teamwork and Personal skills",
+				"Object Oriented Programming",
+				"Quality Code",
+				"JavaScript Advanced",
+				"JavaScript Applications"
 			]
 		}
 	],
@@ -105,6 +117,13 @@
 			"releaseDate": "2013-10-30",
 			"website": "https://github.com/hkdobrev/jquery-conference-2013",
 			"summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
+		},
+		{
+			"name": "Development workflow",
+			"publisher": "Bulgaria Web Summit 2014",
+			"releaseDate": "2014-05-31",
+			"website": "https://speakerdeck.com/hkdobrev/development-workflow",
+			"summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
 		}
 	],
 	"skills": [

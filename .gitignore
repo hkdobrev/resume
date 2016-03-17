@@ -1,3 +1,4 @@
 # Ignore exported CSVs in PDF and HTML, keep Markdown in the repo
 *.pdf
 *.html
+/out/

@@ -138,6 +138,13 @@
 			"releaseDate": "2016-03-10",
 			"website": "https://speakerdeck.com/hkdobrev/composer-tips-and-tricks",
 			"summary": "Composer tips & tricks for beginners and advanced users"
+		},
+		{
+			"name": "Dependency injection and reusable service providers",
+			"publisher": "PHP User Group meeting September 2016",
+			"releaseDate": "2016-09-28",
+			"website": "https://hkdobrev.com/service-providers-slides",
+			"summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
 		}
 	],
 	"skills": [

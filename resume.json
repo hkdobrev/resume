@@ -1,209 +1,209 @@
 {
-	"basics": {
-		"name": "Haralan Dobrev",
-		"label": "CTO @ Clippings.com",
-		"picture": "https://secure.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
-		"email": "hkdobrev@gmail.com",
-		"website": "https://hkdobrev.com",
-		"summary": "I am a full-stack web developer. I think about the whole product - from speed and simplicity for the end-user to the maintainability and re-usability of the code. I love open-source and I try to contribute back to the community on which we rely on.",
-		"location": {
-			"postalCode": "1000",
-			"city": "Sofia",
-			"countryCode": "BG",
-			"state": "Sofia"
-		},
-		"profiles": [
-			{
-				"network": "Twitter",
-				"username": "hkdobrev",
-				"url": "https://twitter.com/hkdobrev"
-			},
-			{
-				"network": "GitHub",
-				"username": "hkdobrev",
-				"url": "https://github.com/hkdobrev"
-			},
-			{
-				"network": "LinkedIn",
-				"username": "hkdobrev",
-				"url": "https://www.linkedin.com/in/hkdobrev"
-			},
-			{
-				"network": "Facebook",
-				"username": "hkdobrev",
-				"url": "https://www.facebook.com/hkdobrev"
-			}
-		]
-	},
-	"work": [
-		{
-			"company": "Clippings.com",
-			"position": "CTO",
-			"website": "https://clippings.com",
-			"startDate": "2016-02-01",
-			"summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
-		},
-		{
-			"company": "Clippings.com",
-			"position": "Web Developer",
-			"website": "https://clippings.com",
-			"startDate": "2012-02-01",
-			"endDate": "2016-01-31",
-			"summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
-		},
-		{
-			"company": "OpenBuildings",
-			"position": "Web Developer",
-			"website": "http://openbuildings.com",
-			"startDate": "2012-12-01",
-			"endDate": "2013-06-01",
-			"summary": ""
-		},
-		{
-			"company": "Despark",
-			"position": "Web Developer",
-			"website": "http://despark.com",
-			"startDate": "2011-04-11",
-			"endDate": "2014-09-08",
-			"summary": ""
-		},
-		{
-			"company": "Transys",
-			"position": "Web Developer",
-			"startDate": "2010-06-02",
-			"endDate": "2011-04-11",
-			"summary": ""
-		}
-	],
-	"education": [
-		{
-			"institution": "Sofia University",
-			"startDate": "2010-10-01",
-			"endDate": "2011-05-31",
-			"area": "Software Engineering",
-			"studyType": "Bachelor",
-			"courses": [
-				"Linear Algebra",
-				"Calculus",
-				"Discrete structures",
-				"Object Oriented Programming",
-				"English"
-			]
-		},
-		{
-			"institution": "Software University",
-			"startDate": "2014-05-07",
-			"endDate": "2015-06-30",
-			"area": "Software Engineering",
-			"studyType": "Bachelor",
-			"courses": [
-				"C# Basics",
-				"Java Basics",
-				"PHP Basics",
-				"JavaScript Basics",
-				"Web Fundamentals",
-				"Teamwork and Personal skills",
-				"Object Oriented Programming",
-				"Quality Code",
-				"JavaScript Advanced",
-				"JavaScript Applications"
-			]
-		}
-	],
-	"awards": [
-		{
-			"title": "SEO on-site optimization - young talents (BG Site)",
-			"date": "2010-11-13",
-			"awarder": "SEOM"
-		}
-	],
-	"publications": [
-		{
-			"name": "Thinks I learned from the jQuery source",
-			"publisher": "jQuery Bulgaria 2013 conference",
-			"releaseDate": "2013-10-30",
-			"website": "https://github.com/hkdobrev/jquery-conference-2013",
-			"summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
-		},
-		{
-			"name": "Development workflow",
-			"publisher": "Bulgaria Web Summit 2014",
-			"releaseDate": "2014-05-31",
-			"website": "https://speakerdeck.com/hkdobrev/development-workflow",
-			"summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
-		},
-		{
-			"name": "Composer Tips & Tricks",
-			"publisher": "PHP User Group meeting March 2016",
-			"releaseDate": "2016-03-10",
-			"website": "https://speakerdeck.com/hkdobrev/composer-tips-and-tricks",
-			"summary": "Composer tips & tricks for beginners and advanced users"
-		},
-		{
-			"name": "Dependency injection and reusable service providers",
-			"publisher": "PHP User Group meeting September 2016",
-			"releaseDate": "2016-09-28",
-			"website": "https://hkdobrev.com/service-providers-slides",
-			"summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
-		}
-	],
-	"skills": [
-		{
-			"name": "Front-end Development",
-			"level": "Master",
-			"keywords": [
-				"HTML",
-				"CSS",
-				"JavaScript",
-				"SASS",
-				"LESS",
-				"CoffeeScript",
-				"AngularJS",
-				"Bower",
-				"Grunt",
-				"Yeoman",
-				"Local storage",
-				"jQuery",
-				"jQuery plugin development",
-				"Google Maps JavaScript SDK",
-				"Facebook JavaScript SDK"
-			]
-		},
-		{
-			"name": "Back-end Development",
-			"level": "Master",
-			"keywords": [
-				"PHP",
-				"Apache",
-				"MySQL",
-				"Linux",
-				"Node.js",
-				"Object-oriented programming",
-				"Design patterns",
-				"MVC",
-				"Kohana PHP framework",
-				"Silex",
-				"Symfony components",
-				"Server security",
-				"OAuth",
-				"REST APIs",
-				"HTTP",
-				"Database architecture"
-			]
-		}
-	],
-	"languages": [
-		{
-			"language": "English",
-			"fluency": "Full professional proficiency"
-		},
-		{
-			"language": "Bulgarian",
-			"fluency": "Native speaker"
-		},
-		{
-			"language": "French",
-			"fluency": "Beginner"
-		}
-	]
+    "basics": {
+        "name": "Haralan Dobrev",
+        "label": "CTO @ Clippings.com",
+        "picture": "https://secure.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
+        "email": "hkdobrev@gmail.com",
+        "website": "https://hkdobrev.com",
+        "summary": "I am a full-stack web developer. I think about the whole product - from speed and simplicity for the end-user to the maintainability and re-usability of the code. I love open-source and I try to contribute back to the community on which we rely on.",
+        "location": {
+            "postalCode": "1000",
+            "city": "Sofia",
+            "countryCode": "BG",
+            "state": "Sofia"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "hkdobrev",
+                "url": "https://twitter.com/hkdobrev"
+            },
+            {
+                "network": "GitHub",
+                "username": "hkdobrev",
+                "url": "https://github.com/hkdobrev"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "hkdobrev",
+                "url": "https://www.linkedin.com/in/hkdobrev"
+            },
+            {
+                "network": "Facebook",
+                "username": "hkdobrev",
+                "url": "https://www.facebook.com/hkdobrev"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Clippings.com",
+            "position": "CTO",
+            "website": "https://clippings.com",
+            "startDate": "2016-02-01",
+            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+        },
+        {
+            "company": "Clippings.com",
+            "position": "Web Developer",
+            "website": "https://clippings.com",
+            "startDate": "2012-02-01",
+            "endDate": "2016-01-31",
+            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+        },
+        {
+            "company": "OpenBuildings",
+            "position": "Web Developer",
+            "website": "http://openbuildings.com",
+            "startDate": "2012-12-01",
+            "endDate": "2013-06-01",
+            "summary": ""
+        },
+        {
+            "company": "Despark",
+            "position": "Web Developer",
+            "website": "http://despark.com",
+            "startDate": "2011-04-11",
+            "endDate": "2014-09-08",
+            "summary": ""
+        },
+        {
+            "company": "Transys",
+            "position": "Web Developer",
+            "startDate": "2010-06-02",
+            "endDate": "2011-04-11",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Sofia University",
+            "startDate": "2010-10-01",
+            "endDate": "2011-05-31",
+            "area": "Software Engineering",
+            "studyType": "Bachelor",
+            "courses": [
+                "Linear Algebra",
+                "Calculus",
+                "Discrete structures",
+                "Object Oriented Programming",
+                "English"
+            ]
+        },
+        {
+            "institution": "Software University",
+            "startDate": "2014-05-07",
+            "endDate": "2015-06-30",
+            "area": "Software Engineering",
+            "studyType": "Bachelor",
+            "courses": [
+                "C# Basics",
+                "Java Basics",
+                "PHP Basics",
+                "JavaScript Basics",
+                "Web Fundamentals",
+                "Teamwork and Personal skills",
+                "Object Oriented Programming",
+                "Quality Code",
+                "JavaScript Advanced",
+                "JavaScript Applications"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "SEO on-site optimization - young talents (BG Site)",
+            "date": "2010-11-13",
+            "awarder": "SEOM"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Thinks I learned from the jQuery source",
+            "publisher": "jQuery Bulgaria 2013 conference",
+            "releaseDate": "2013-10-30",
+            "website": "https://github.com/hkdobrev/jquery-conference-2013",
+            "summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
+        },
+        {
+            "name": "Development workflow",
+            "publisher": "Bulgaria Web Summit 2014",
+            "releaseDate": "2014-05-31",
+            "website": "https://speakerdeck.com/hkdobrev/development-workflow",
+            "summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
+        },
+        {
+            "name": "Composer Tips & Tricks",
+            "publisher": "PHP User Group meeting March 2016",
+            "releaseDate": "2016-03-10",
+            "website": "https://speakerdeck.com/hkdobrev/composer-tips-and-tricks",
+            "summary": "Composer tips & tricks for beginners and advanced users"
+        },
+        {
+            "name": "Dependency injection and reusable service providers",
+            "publisher": "PHP User Group meeting September 2016",
+            "releaseDate": "2016-09-28",
+            "website": "https://hkdobrev.com/service-providers-slides",
+            "summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Front-end Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "SASS",
+                "LESS",
+                "CoffeeScript",
+                "AngularJS",
+                "Bower",
+                "Grunt",
+                "Yeoman",
+                "Local storage",
+                "jQuery",
+                "jQuery plugin development",
+                "Google Maps JavaScript SDK",
+                "Facebook JavaScript SDK"
+            ]
+        },
+        {
+            "name": "Back-end Development",
+            "level": "Master",
+            "keywords": [
+                "PHP",
+                "Apache",
+                "MySQL",
+                "Linux",
+                "Node.js",
+                "Object-oriented programming",
+                "Design patterns",
+                "MVC",
+                "Kohana PHP framework",
+                "Silex",
+                "Symfony components",
+                "Server security",
+                "OAuth",
+                "REST APIs",
+                "HTTP",
+                "Database architecture"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Full professional proficiency"
+        },
+        {
+            "language": "Bulgarian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Beginner"
+        }
+    ]
 }

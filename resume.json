@@ -119,18 +119,11 @@
     ],
     "publications": [
         {
-            "name": "Thinks I learned from the jQuery source",
-            "publisher": "jQuery Bulgaria 2013 conference",
-            "releaseDate": "2013-10-30",
-            "website": "https://github.com/hkdobrev/jquery-conference-2013",
-            "summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
-        },
-        {
-            "name": "Development workflow",
-            "publisher": "Bulgaria Web Summit 2014",
-            "releaseDate": "2014-05-31",
-            "website": "https://speakerdeck.com/hkdobrev/development-workflow",
-            "summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
+            "name": "Dependency injection and reusable service providers",
+            "publisher": "PHP User Group meeting September 2016",
+            "releaseDate": "2016-09-28",
+            "website": "https://hkdobrev.com/service-providers-slides",
+            "summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
         },
         {
             "name": "Composer Tips & Tricks",
@@ -140,11 +133,18 @@
             "summary": "Composer tips & tricks for beginners and advanced users"
         },
         {
-            "name": "Dependency injection and reusable service providers",
-            "publisher": "PHP User Group meeting September 2016",
-            "releaseDate": "2016-09-28",
-            "website": "https://hkdobrev.com/service-providers-slides",
-            "summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
+            "name": "Development workflow",
+            "publisher": "Bulgaria Web Summit 2014",
+            "releaseDate": "2014-05-31",
+            "website": "https://speakerdeck.com/hkdobrev/development-workflow",
+            "summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
+        },
+        {
+            "name": "Thinks I learned from the jQuery source",
+            "publisher": "jQuery Bulgaria 2013 conference",
+            "releaseDate": "2013-10-30",
+            "website": "https://github.com/hkdobrev/jquery-conference-2013",
+            "summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
         }
     ],
     "skills": [

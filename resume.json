@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Haralan Dobrev",
-        "label": "CTO @ Clippings.com",
+        "label": "Chief Architect @ Clippings.com",
         "picture": "https://secure.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
         "email": "harry@hkdobrev.com",
         "website": "https://hkdobrev.com",
@@ -27,29 +27,27 @@
                 "network": "LinkedIn",
                 "username": "hkdobrev",
                 "url": "https://www.linkedin.com/in/hkdobrev"
-            },
-            {
-                "network": "Facebook",
-                "username": "hkdobrev",
-                "url": "https://www.facebook.com/hkdobrev"
-            },
-            {
-                "network": "Instagram",
-                "username": "hkdobrev",
-                "url": "https://www.instagram.com/hkdobrev/"
             }
         ]
     },
     "work": [
         {
-            "company": "Clippings.com",
-            "position": "CTO",
+            "company": "Clippings",
+            "position": "Chief Architect",
             "website": "https://clippings.com",
-            "startDate": "2016-02-01",
+            "startDate": "2020-01-01",
             "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
         },
         {
-            "company": "Clippings.com",
+            "company": "Clippings",
+            "position": "CTO",
+            "website": "https://clippings.com",
+            "startDate": "2016-02-01",
+            "endDate": "2019-12-31",
+            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+        },
+        {
+            "company": "Clippings",
             "position": "Web Developer",
             "website": "https://clippings.com",
             "startDate": "2012-02-01",

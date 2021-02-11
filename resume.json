@@ -1,8 +1,9 @@
 {
     "basics": {
         "name": "Haralan Dobrev",
-        "label": "Chief Architect @ Clippings.com",
+        "label": "Technology, Strategy, Startups",
         "picture": "https://secure.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
+        "image": "https://secure.gravatar.com/avatar/b823b2c0a620c82547e71f84cfa15682?s=300",
         "email": "harry@hkdobrev.com",
         "website": "https://hkdobrev.com",
         "summary": "I am a full-stack web developer. I think about the whole product - from speed and simplicity for the end-user to the maintainability and re-usability of the code. I love open-source and I try to contribute back to the community on which we rely on.",
@@ -27,74 +28,110 @@
                 "network": "LinkedIn",
                 "username": "hkdobrev",
                 "url": "https://www.linkedin.com/in/hkdobrev"
+            },
+            {
+                "network": "StackOverflow",
+                "username": "Haralan Dobrev",
+                "url": "https://stackoverflow.com/users/679227/haralan-dobrev"
             }
         ]
     },
     "work": [
         {
-            "company": "Clippings",
+            "name": "Clippings",
             "position": "Chief Architect",
-            "website": "https://clippings.com",
+            "url": "https://clippings.com",
             "startDate": "2020-01-01",
-            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+            "summary": "Clippings.com is a interior design platform for interior designers to discover products from the largest online catalogue and manage their interior design projects from inspiratio to instalation.",
+            "highlights": [
+                "• Worked with external partners and clients on white-labeling the software.",
+                "• Formed cross-team functional working groups within engineering department.",
+                "• Worked with tech leads, engineering managers, product managers and stakeholders across multiple organisations."
+            ]
         },
         {
-            "company": "Clippings",
+            "name": "Clippings",
             "position": "CTO",
-            "website": "https://clippings.com",
+            "url": "https://clippings.com",
             "startDate": "2016-02-01",
             "endDate": "2019-12-31",
-            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+            "summary": "Clippings.com is a interior design platform for interior designers to discover products from the largest online catalogue and manage their interior design projects from inspiratio to instalation.",
+            "highlights": [
+                "• Scaled the engineering team from 3 to 30 people.",
+                "• Worked on strategy and objectives for the company through multiple pivots and evolutions of the business.",
+                "• Participated in technical due diligence in investment rounds.",
+                "• Guided the technology direction in the business."
+            ]
         },
         {
-            "company": "Clippings",
-            "position": "Web Developer",
-            "website": "https://clippings.com",
+            "name": "Clippings",
+            "position": "Software Engineer",
+            "url": "https://clippings.com",
             "startDate": "2012-02-01",
             "endDate": "2016-01-31",
-            "summary": "E-commerce startup aiming to becoming the best platform for individual designers to sell beautiful homeware."
+            "summary": "Clippings.com is a interior design platform for interior designers to discover products from the largest online catalogue and manage their interior design projects from inspiratio to instalation.",
+            "highlights": [
+                "• I worked as a full-stack developer throughout the whole product.",
+                "• Worked on transitioning the platform to the B2B business model",
+                "• Helped with recruitment.",
+                "• Introduced new technologies in the stack."
+            ]
         },
         {
-            "company": "OpenBuildings",
-            "position": "Web Developer",
-            "website": "http://openbuildings.com",
+            "name": "OpenBuildings",
+            "position": "Software Engineer",
+            "url": "http://openbuildings.com",
             "startDate": "2012-12-01",
             "endDate": "2013-06-01",
-            "summary": ""
+            "summary": "OpenBuildings was a crowd-sourced website for buildings targeted at architects, students and tourists. It was funded by Index Ventures in 2011. We pivoted to Clippings.com in 20212.",
+            "highlights": [
+                "• Created the professional profiles for architecture companies at OpenBuildings",
+                "• Introduced subscription payments for premium profiles of architecture companies as the first monetization."
+            ]
         },
         {
-            "company": "Despark",
-            "position": "Web Developer",
-            "website": "http://despark.com",
+            "name": "Despark",
+            "position": "Software Engineer",
+            "url": "https://despark.com",
             "startDate": "2011-04-11",
             "endDate": "2014-07-01",
-            "summary": ""
+            "summary": "",
+            "highlights": [
+                ""
+            ]
         },
         {
-            "company": "Transys",
+            "name": "TranSYS BG",
             "position": "Web Developer",
             "startDate": "2010-06-02",
             "endDate": "2011-04-11",
-            "summary": ""
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Yes, Bulgaria",
+            "position": "Member, Activist",
+            "website": "https://dabulgaria.bg/en/",
+            "startDate": "2017-01-07",
+            "summary": "Part of an up and coming political party fighting for judical reforms and modernization of the country.",
+            "highlights": [
+            ]
+        },
+        {
+            "organization": "Tuk-Tam",
+            "position": "Member",
+            "website": "https://tuk-tam.bg/",
+            "startDate": "2020-07-30",
+            "summary": "Tuk-Tam is a non-profit aiming to connect the Bulgarian diaspora throughout the world and helps students with stipends to study abroad."
         }
     ],
     "education": [
         {
-            "institution": "Sofia University",
-            "startDate": "2010-10-01",
-            "endDate": "2011-05-31",
-            "area": "Software Engineering",
-            "studyType": "Bachelor",
-            "courses": [
-                "Linear Algebra",
-                "Calculus",
-                "Discrete structures",
-                "Object Oriented Programming",
-                "English"
-            ]
-        },
-        {
-            "institution": "Software University",
+            "institution": "Software University \"Svetlin Nakov\"",
             "startDate": "2014-05-07",
             "endDate": "2015-06-30",
             "area": "Software Engineering",
@@ -111,9 +148,45 @@
                 "JavaScript Advanced",
                 "JavaScript Applications"
             ]
+        },
+        {
+            "institution": "Sofia University \"Kliment Ohridski\"",
+            "startDate": "2010-10-01",
+            "endDate": "2011-05-31",
+            "area": "Software Engineering",
+            "studyType": "Bachelor",
+            "courses": [
+                "Linear Algebra",
+                "Calculus",
+                "Discrete structures",
+                "Object Oriented Programming",
+                "English"
+            ]
+        },
+        {
+            "institution": "Mathematics High School \"Konstantin Velichkov\"",
+            "startDate": "2005-09-15",
+            "endDate": "2010-05-31",
+            "area": "Informatics, Mathematics, English",
+            "studyType": "High School",
+            "courses": [
+                "Informatics",
+                "Competitive Informatics",
+                "Information Technology",
+                "Mathematics",
+                "English",
+                "Physics",
+                "History"
+            ]
         }
     ],
     "awards": [
+        {
+            "title": "LLPA Battle Best IT Developer",
+            "date": "2015-07-15",
+            "awarder": "ITCE",
+            "summary": "https://www.itce.com/блог/llpa-battle-best-developer/"
+        },
         {
             "title": "SEO on-site optimization - young talents (BG Site)",
             "date": "2010-11-13",
@@ -122,35 +195,80 @@
     ],
     "publications": [
         {
+            "name": "Automating processes with JavaScript & Git",
+            "publisher": "DEV.BG JavaScript Talks",
+            "releaseDate": "2019-06-19",
+            "website": "https://hkdobrev.com/js-git-talk/",
+            "summary": "Using tools like Husky, lint-changed and run-if-changed to wrap personal and team development processes with Git and Javascript"
+        },
+        {
+            "name": "Open-Source Contributions",
+            "publisher": "Bulgaria OpenFest",
+            "releaseDate": "2016-10-07",
+            "website": "https://hkdobrev.com/open-source-talk/",
+            "summary": "Closing keynote at OpenFest 2016 on the topic of contributing to open-source - what this means, how to do it and why."
+        },
+        {
+            "name": "Upgrading to PHP 7",
+            "publisher": "Bulgaria PHP Conference",
+            "releaseDate": "2016-10-09",
+            "website": "https://hkdobrev.com/php7-slides/",
+            "summary": "Lightning talk on how to upgrade to PHP 7 in a safe and reliable manner"
+        },
+        {
             "name": "Dependency injection and reusable service providers",
-            "publisher": "PHP User Group meeting September 2016",
+            "publisher": "PHP User Group",
             "releaseDate": "2016-09-28",
             "website": "https://hkdobrev.com/service-providers-slides",
             "summary": "Technical talk about dependency injection, containers, service providers and reusing them across frameworks."
         },
         {
             "name": "Composer Tips & Tricks",
-            "publisher": "PHP User Group meeting March 2016",
+            "publisher": "PHP User Group",
             "releaseDate": "2016-03-10",
             "website": "https://speakerdeck.com/hkdobrev/composer-tips-and-tricks",
             "summary": "Composer tips & tricks for beginners and advanced users"
         },
         {
             "name": "Development workflow",
-            "publisher": "Bulgaria Web Summit 2014",
+            "publisher": "Bulgaria Web Summit",
             "releaseDate": "2014-05-31",
             "website": "https://speakerdeck.com/hkdobrev/development-workflow",
             "summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
         },
         {
             "name": "Thinks I learned from the jQuery source",
-            "publisher": "jQuery Bulgaria 2013 conference",
+            "publisher": "jQuery Bulgaria conference",
             "releaseDate": "2013-10-30",
             "website": "https://github.com/hkdobrev/jquery-conference-2013",
             "summary": "Examples of good and interesting JavaScript practices picked up from the jQuery source code."
         }
     ],
     "skills": [
+        {
+            "name": "Back-end Development",
+            "level": "Master",
+            "keywords": [
+                "PHP",
+                "MySQL",
+                "Bash",
+                "Python",
+                "Node.js",
+                "Apache",
+                "Object-oriented programming",
+                "Functional programming",
+                "SOLID principles",
+                "Design patterns",
+                "Domain-driven design",
+                "MVC",
+                "Symfony",
+                "Silex",
+                "OAuth",
+                "REST APIs",
+                "HTTP protocol",
+                "Database architecture"
+            ]
+        },
         {
             "name": "Front-end Development",
             "level": "Master",
@@ -159,13 +277,8 @@
                 "CSS",
                 "JavaScript",
                 "SASS",
-                "LESS",
-                "CoffeeScript",
+                "React",
                 "AngularJS",
-                "Bower",
-                "Grunt",
-                "Yeoman",
-                "Local storage",
                 "jQuery",
                 "jQuery plugin development",
                 "Google Maps JavaScript SDK",
@@ -173,32 +286,75 @@
             ]
         },
         {
-            "name": "Back-end Development",
+            "name": "DevOps",
             "level": "Master",
             "keywords": [
-                "PHP",
-                "Apache",
-                "MySQL",
+                "Git",
+                "GitHub Actions",
+                "Travis CI",
+                "Jenkins",
+                "Automation",
+                "Development Tools"
+            ]
+        },
+        {
+            "name": "Infrastructure",
+            "level": "Advanced",
+            "keywords": [
+                "AWS",
+                "Terraform",
+                "Ansible",
                 "Linux",
-                "Node.js",
-                "Object-oriented programming",
-                "Design patterns",
-                "MVC",
-                "Kohana PHP framework",
-                "Silex",
-                "Symfony components",
-                "Server security",
-                "OAuth",
-                "REST APIs",
-                "HTTP",
-                "Database architecture"
+                "Docker",
+                "Vagrant",
+                "Linode",
+                "Capistrano",
+                "GitHub Actions",
+                "Travis CI",
+                "Jenkins"
+            ]
+        },
+        {
+            "name": "Management",
+            "level": "Advanced",
+            "keywords": [
+                "Hiring planning",
+                "Budgeting",
+                "Interviewing",
+                "One-on-ones",
+                "Personal development",
+                "Goal-setting"
+            ]
+        },
+        {
+            "name": "Strategy",
+            "level": "Intermediate",
+            "keywords": [
+                "Data-driven",
+                "Customer-focused",
+                "OKRs",
+                "Rolling horizon planning"
+            ]
+        },
+        {
+            "name": "Data Science & Machine Learning",
+            "level": "Beginner",
+            "keywords": [
+                "Data collection",
+                "Data scraping",
+                "ETLs",
+                "Feature extraction",
+                "Statistics",
+                "Jupiter Notebooks",
+                "Anaconda",
+                "Tensorflow"
             ]
         }
     ],
     "languages": [
         {
             "language": "English",
-            "fluency": "Full professional proficiency"
+            "fluency": "Fluent"
         },
         {
             "language": "Bulgarian",
@@ -207,6 +363,27 @@
         {
             "language": "French",
             "fluency": "Beginner"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Beginner"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Open-Source"
+        },
+        {
+            "name": "Space exploration"
+        },
+        {
+            "name": "Electric vehicles"
+        },
+        {
+            "name": "Physics"
+        },
+        {
+            "name": "Politics"
         }
     ]
 }

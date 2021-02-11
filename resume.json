@@ -237,7 +237,7 @@
             "summary": "Best practices in development workflow: Git, GitHub, Unit testing, Continuous integration"
         },
         {
-            "name": "Thinks I learned from the jQuery source",
+            "name": "Things I learned from the jQuery source",
             "publisher": "jQuery Bulgaria conference",
             "releaseDate": "2013-10-30",
             "website": "https://github.com/hkdobrev/jquery-conference-2013",
